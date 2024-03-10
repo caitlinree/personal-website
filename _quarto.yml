@@ -6,8 +6,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+        
   page-footer:
     right: "&copy; 2024, Caitlin Ree"
 
